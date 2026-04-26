@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle exec *)",
+      "Bash(gem contents *)",
+      "Bash(bundle show *)"
+    ]
+  }
+}

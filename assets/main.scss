@@ -1,0 +1,134 @@
+---
+# Only the main Sass import belongs up here.
+---
+
+@import "minima";
+
+// Profile header banner
+.profile-header {
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #e8e8e8;
+  padding: 20px 0;
+
+  .profile-header-inner {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+  }
+
+  .profile-photo {
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .profile-text {
+    flex: 1;
+  }
+
+  .profile-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0 0 6px;
+    letter-spacing: 0.04em;
+  }
+
+  .profile-subtitle {
+    margin: 0 0 10px;
+    font-size: 0.95em;
+    color: #555;
+  }
+
+  .profile-contact {
+    margin: 0;
+    font-size: 0.88em;
+    color: #444;
+  }
+}
+
+// CV download button
+.cv-download-bar {
+  text-align: right;
+  margin-bottom: 16px;
+}
+
+.cv-download-btn {
+  display: inline-block;
+  padding: 8px 18px;
+  background-color: #2a7ae2;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+  text-decoration: none;
+
+  &:hover {
+    background-color: #1756a9;
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+// Print styles for PDF export
+@media print {
+  .no-print,
+  .site-header,
+  .site-footer {
+    display: none !important;
+  }
+
+  .profile-header {
+    background: none;
+    border: none;
+    padding: 0 0 12px;
+  }
+
+  body {
+    font-size: 11pt;
+    color: #000;
+  }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  .post-content hr {
+    border-color: #ccc;
+  }
+
+  @page {
+    margin: 0.75in;
+  }
+}
+
+// Even spacing for desktop nav links
+@media screen and (min-width: 601px) {
+  .site-header .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .site-nav {
+    float: none;
+    flex: 1;
+  }
+
+  .site-nav .trigger {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .site-nav .page-link:not(:last-child) {
+    margin-right: 0;
+  }
+}
