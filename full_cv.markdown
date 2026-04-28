@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /james_tunnessen_cv/
+permalink: /cv/
 ---
 
 <div class="no-print cv-download-bar">
