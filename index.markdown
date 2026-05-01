@@ -14,7 +14,7 @@ ___
 
 Some recent events:<br>
 
-**4/29/2026** Will be pre-recording an <em>Ask the CIO</em> interview with Federal News Network for radio broadcast and podcast release<br>
+**4/30/2026** Pre-recorded a new interview with Federal News Network for radio broadcast, webinar, and podcast release<br>
 **4/13/2026** Expert Panel: **[The Hidden Risks Of Scaling Open AI Models Across Enterprises](https://www.forbes.com/councils/forbestechcouncil/2026/04/13/the-hidden-risks-of-scaling-open-ai-models-across-enterprises/)** on Forbes.com<br>
 **4/12/2026** Published **[One Developer. One Week. One Argument](https://executivetech.substack.com/p/one-developer-one-week-one-argument)** on ExecutiveTech (Substack)<br>
 **4/9/2026** Published **[Escaping Pilot Purgatory: A Framework For Scaling Enterprise AI](https://www.forbes.com/councils/forbestechcouncil/2026/04/09/escaping-pilot-purgatory-a-framework-for-scaling-enterprise-ai/)** on Forbes.com<br>
