@@ -14,6 +14,7 @@ ___
 
 Some recent events:<br>
 
+**5/2/2026** Published **[Why Identity Governance Is the Key Enabler for Secure AI Innovation](https://open.substack.com/pub/executivetech/p/why-identity-governance-is-the-key?r=6p5j8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)** on ExecutiveTech (Substack)<br>
 **4/30/2026** Pre-recorded a new interview with Federal News Network for radio broadcast, webinar, and podcast release<br>
 **4/13/2026** Expert Panel: **[The Hidden Risks Of Scaling Open AI Models Across Enterprises](https://www.forbes.com/councils/forbestechcouncil/2026/04/13/the-hidden-risks-of-scaling-open-ai-models-across-enterprises/)** on Forbes.com<br>
 **4/12/2026** Published **[One Developer. One Week. One Argument](https://executivetech.substack.com/p/one-developer-one-week-one-argument)** on ExecutiveTech (Substack)<br>
