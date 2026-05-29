@@ -14,6 +14,7 @@ ___
 
 Some recent events:<br>
 
+**5/27/2026** Invited to and attended the inaugural **Time100/AI Leadership Forum** in NYC<br>
 **5/14/2026** Panel at ACT-IAC Emerging Technology and Innovation Conference <em>The CIO and Innovation Officer Government/Audience Interchange</em><br>
 **5/12/2026** Published **[The Agentic AI Control Plane: Engineering Governance For The Autonomous Enterprise](https://www.forbes.com/councils/forbestechcouncil/2026/05/12/the-agentic-control-plane-engineering-governance-for-the-autonomous-enterprise/)** on Forbes.com<br>
 **5/2/2026** Published **[Why Identity Governance Is the Key Enabler for Secure AI Innovation](https://open.substack.com/pub/executivetech/p/why-identity-governance-is-the-key?r=6p5j8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)** on ExecutiveTech (Substack)<br>
