@@ -4,7 +4,7 @@ title: Home
 ---
 ## ABOUT ME
 
-<p>James Tunnessen is a Doctor of Engineering candidate at George Washington University specializing in Artificial Intelligence and Machine Learning. His praxis examines agentic AI governance frameworks for federal enterprise environments, with particular focus on multi-agent orchestration architectures, responsible AI deployment in resource-constrained organizations, and explainability and fairness in large language models.</p>
+<p>James Tunnessen is a Doctor of Engineering candidate at George Washington University specializing in Artificial Intelligence and Machine Learning. His praxis examines Explainable AI (XAI) frameworks for enterprise environments, with particular focus on machine learning and transformer architectures, responsible AI deployment in resource-constrained organizations, and explainability and fairness in large language models.</p>
 <p>He serves as Chief Information Officer and Chief AI Officer (SES) at the National Endowment for the Arts, where he leads the agency's AI strategy, governance, and production deployments — including agentic AI systems integrating retrieval-augmented generation, LLM fine-tuning, and vector embeddings. He previously served as CIO and Chief Digital Officer at Voice of America and as Chief Technology Officer at USDA, accumulating executive technology leadership experience across four federal agencies.</p>
 <p>He is the Founder and Principal Advisor of Gradient Descent LLC, an AI consulting and advisory practice focused on agentic AI, responsible AI governance, and applied machine learning for enterprise and public sector clients. A member of the Federal Chief AI Officer Council and Forbes Technology Council, he is a frequent speaker on artificial intelligence, digital transformation, cloud strategy, and emerging technology.</p> 
 
@@ -14,6 +14,7 @@ ___
 
 Some recent events:<br>
 
+**6/12/2026** Lightning Talk on <em>AI-Driven DevSecOps in Practice</em> at the Federal Tech Leaders Conference by GovCIO Media & Research<br>
 **5/27/2026** Invited to and attended the inaugural **Time100/AI Leadership Forum** in NYC<br>
 **5/14/2026** Panel at ACT-IAC Emerging Technology and Innovation Conference <em>The CIO and Innovation Officer Government/Audience Interchange</em><br>
 **5/12/2026** Published **[The Agentic AI Control Plane: Engineering Governance For The Autonomous Enterprise](https://www.forbes.com/councils/forbestechcouncil/2026/05/12/the-agentic-control-plane-engineering-governance-for-the-autonomous-enterprise/)** on Forbes.com<br>
