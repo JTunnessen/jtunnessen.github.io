@@ -101,6 +101,10 @@
     page-break-after: avoid;
   }
 
+  li, .post-content p {
+    page-break-inside: avoid;
+  }
+
   .post-content hr {
     border-color: #ccc;
   }

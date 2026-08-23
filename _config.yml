@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: James E. Tunnessen JR.
+title: James E. Tunnessen Jr.
 email: info@gradientdescent.biz
-author: James E. Tunnessen JR.
-description: "Online curriculum vitae and professional profile."
+author: James E. Tunnessen Jr.
+description: "James E. Tunnessen Jr. — AI governance executive and D.Eng. candidate (AI/ML) at George Washington University; founder of Gradient Descent LLC (think tank, labs & advisory) and GOVERNBOX.ai; former federal CIO/CAIO at NEA, VOA, USDA, and DHS."
 baseurl: ""
 url: "https://jtunnessen.github.io"
 github_username: "JTunnessen"
@@ -44,6 +44,8 @@ plugins:
 
 exclude:
   - "_posts"
+  - "mockups"
+  - "CV-REVISION-PLAN.md"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
